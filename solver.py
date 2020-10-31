@@ -74,8 +74,3 @@ def solve(board):
     return False
             
 
-
-print_board(game_board)
-solve(game_board)
-print("Solved board:")
-print_board(game_board)
